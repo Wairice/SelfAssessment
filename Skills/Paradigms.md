@@ -19,7 +19,7 @@
   - Domain-specific languages: 🎓 known
   - Multi-paradigm programming: 🎓 known
   - Metaprogramming: 🎓 known
-  - Actor model: 🎓 known
+  - Actor model: 👂 heard
 - OOP basics
   - Constructor: 🖐️ used
   - New: 👂 heard
